@@ -1,5 +1,5 @@
 1- 👀 I’m interested in für  IT
-- 🌱 I’m currently learning  Coden 
+- 🌱 I’m currently coding
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 
 <!---
