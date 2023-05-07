@@ -1,6 +1,6 @@
 Deutsch: 
 👀 Ich mag Programmieren
-🌱 Ich codiere gerade. Sicher
+🌱 Ich code gerade. Sicher
 💞️ Ich suche eine Zusammenarbeit
 📫 Erreiche mich einfach unter migzzenzei@proton.me 
 Ich bin ein leidenschaftlicher Entwickler, der gerne mit verschiedenen Technologien und Tools arbeitet, um innovative Lösungen zu entwickeln. Habe Erfahrung in der Entwicklung von skalierbaren Anwendungen. Wenn Sie also ein spannendes Projekt haben, bei dem ich helfen kann, lassen Sie es mich unter migzzenzei@proton.me wissen!
